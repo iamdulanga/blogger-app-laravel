@@ -37,7 +37,7 @@
                             <input name="password" id="password-register" class="form-control" type="password"
                                 placeholder="Create a password" />
                             @error('password')
-                            <p class='m-0 small alert alert-danger shadow-sm'>{{$message}}</p>
+                            <p class='m-0 small alert alert-danger shadow-sm'>{{$message}}</p>lay
                             @enderror
                         </div>
 
